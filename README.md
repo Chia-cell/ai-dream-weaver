@@ -57,7 +57,7 @@ streamlit run app.py
 
 Your browser will open at http://localhost:8501.
 
-##🎯 Features
+## 🎯 Features
 Multi‑style dream generation – Choose from 4 different dream themes.
 
 Recursive dream evolution – Build a longer, evolving dream narrative.
@@ -68,14 +68,14 @@ Word cloud visualization – See the differences in association patterns.
 
 Adjustable parameters – Control randomness (temperature) and output length.
 
-##📝 Notes
+## 📝 Notes
 The AI model used is glm-4-flash, which is free and fast. It may sometimes output Chinese; the prompts are designed to encourage English output.
 
 The association game currently uses English words to avoid font issues in word clouds.
 
 Your API key is kept safe via .env and is not uploaded to GitHub.
 
-##🤔 Reflections
+## 🤔 Reflections
 This project helped me understand:
 
 How to integrate a real LLM API into an interactive application.
@@ -84,13 +84,13 @@ The importance of prompt engineering for controlling output style.
 
 The difference between human and AI associations – AI tends to be more literal (co-occurrence), while humans often use metaphor.
 
-##📄 License
+## 📄 License
 This project is for educational purposes.
 
-##👤 Author
+## 👤 Author
 Your Name – [Chia-cell]
 
-##🙏 Acknowledgements
+## 🙏 Acknowledgements
 Zhipu AI for providing free API access.
 
 Streamlit for making interactive apps so easy.
