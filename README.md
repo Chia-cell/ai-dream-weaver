@@ -89,7 +89,7 @@ The difference between human and AI associations – AI tends to be more literal
 This project is for educational purposes.
 
 👤 Author
-Your Name – [your GitHub profile link]
+Your Name – [Chia-cell]
 
 🙏 Acknowledgements
 Zhipu AI for providing free API access.
